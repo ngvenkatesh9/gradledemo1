@@ -30,10 +30,10 @@ dependencies {
     compile 'ch.qos.logback:logback-classic:1.1.1'
 
     //Groovy information to compile groovy code
-    compile 'org.codehaus.groovy:groovy-all:2.2.0'
+    compile 'org.codehaus.groovy:groovy-all:1.2.0'
 
     //Needed to help with injections for TestNG listeners
-    compile 'com.google.inject:guice:3.0'
+    compile 'com.google.inject:guice:1.0'
 
     //This way is the long cut
     //This is the TestNG test execution library that is better than JUnit
